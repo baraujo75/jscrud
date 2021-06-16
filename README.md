@@ -39,3 +39,4 @@ alt="Video Tutorial for JavaScript CRUD Operations with Html" width="500" height
 | MS SQL                    |https://goo.gl/MLYS9e |   |
 | Crystal Report            |https://goo.gl/5Vou7t |   |
 | CG Exercises in C Program |https://goo.gl/qEWJCs |   |
+# jscrud
